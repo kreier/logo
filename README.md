@@ -10,6 +10,12 @@ Collect ideas for vector logos as AppIcon and webpage
 This one was created 2019:
 
 <img src="kreier.org/logo50.png"> <img src="kreier.org/logo60.png">  <img src="kreier.org/logo70.png">
+<img src="kreier.org/logo40.png">
+<img src="kreier.org/logo75.png">
+<img src="kreier.org/logo40o.png">
+<img src="kreier.org/logo75o.png">
+<img src="kreier.org/logo80.png">
+<img src="kreier.org/logo80.svg">
 
 ## Logos for the Google Play Store
 

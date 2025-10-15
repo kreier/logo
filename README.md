@@ -43,6 +43,14 @@ Since 1999 several icons and logos have been used:
 
 <img src="saiht.de/favicon_2003.png"> <img src="saiht.de/favicon_2005.png">  <img src="saiht.de/logo.gif"> <img src="saiht.de/mk2024c.svg" width="15%"> <img src="saiht.de/saihtnet.gif">
 
+### Ideas 2018
+
+<img src="saiht.de/logo18.png" width="20%"> <img src="saiht.de/logo18color.png" width="20%">
+
+### Ideas 2025
+
+<img src="saiht.de/logo25.svg" width="20%"> <img src="saiht.de/logo26color.png" width="20%"> <img src="saiht.de/logo27.svg" width="20%"> 
+
 ## Wificar24
 
 It was planned to finally have a working app in the Google Playstore. Yet time was not sufficient, too many projects. Here my logo idea:

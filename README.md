@@ -37,13 +37,13 @@ The regular icon will be 512x512 32-bit PNG in sRGB. For my two apps I created t
 
 Developed in December 2015 and finally applying for my first app I also used a free material icon, changes some colors and created this app icon:
 
-<img src="GooglePlayStore/beschleunigung_logo2015.png" width=35%>
+<img src="GooglePlayStore/beschleunigung_logo2015.png" width="30%">
 
 ### Wificar23
 
 This project from 2024 let's a robot car controlled by a esp8266 be directed with a smartphone giving the instructions.
 
-<img src="wificar24/Wificar24_512.jpg" width=35%>
+<img src="wificar24/Wificar24_512.jpg" width="30%">
 
 ## Logo for saiht.de
 
@@ -63,7 +63,7 @@ Since 1999 several icons and logos have been used:
 
 It was planned to finally have a working app in the Google Playstore. Yet time was not sufficient, too many projects. Here my logo idea:
 
-<img src="wificar24/Wificar24_512.jpg" width="35%">
+<img src="wificar24/Wificar24_512.jpg" width="30%">
 
 
 

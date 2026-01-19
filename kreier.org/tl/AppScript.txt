@@ -1,0 +1,16 @@
+function adjustGridSizePrompt() {
+  var ui = SpreadsheetApp.getUi();
+  var response = ui.prompt("Enter the size (pixels):");
+  var value = parseInt(response.getResponseText(), 10);
+  
+  if (!isNaN(value)) {
+    var sheet = SpreadsheetApp.getActiveSheet();
+    var cols = [2, 4, 6];
+    var rows = [2, 4, 6];
+    
+    cols.forEach(function(col, i) {
+      sheet.setColumnWidth(col, value);
+      sheet.setRowHeight(rows[i], value);
+    });
+  }
+}

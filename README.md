@@ -9,7 +9,7 @@ Collect ideas for vector logos as AppIcon and for my webpages [kreier.org](https
 
 The [Google Play icon design specifications](https://developer.android.com/distribute/google-play/resources/icon-design-specifications) give some insight on ratios, colors and shapes. The Total asset size is defined as 512x512 pixel, where the product icon keylines fit into a 75% centered part of 384x384 pixel:
 
-<img src="GooglePlayStore/attributes-size.png" width="23%"> <img src="GooglePlayStore/attributes-size-keylines.png" width="23%"> <img src="kreier.org/logo_kreier-org_1024px.png" width="23%">  <img src="saiht.de/icon1024.png" width="23%"> 
+<img src="GooglePlayStore/attributes-size.png" width="19%"> <img src="GooglePlayStore/attributes-size-keylines.png" width="19%"> <img src="kreier.org/logo_kreier-org_1024px.png" width="19%">  <img src="saiht.de/icon1024.png" width="19%"> <img src="kreier.org/tl/TL_gradient.jpg" width="19%">
 
 For my reference size of 1024x1024 this equals 768 pixels. Above the icons for saiht.de and kreier.org have been updated. The reference color for saiht.de is `#105060`, for kreier.org it is `#324167`.
 
